@@ -1,7 +1,5 @@
 - Hi, I’m @rushi-kesh-19
--  I’m interested in Software Developement
--  I’m currently learning Java + DSA
--  I’m looking to collaborate on Open Source Software Developement
+-  I’m interested in Data analysis
 -  How to reach me on linkedin-https://www.linkedin.com/in/rushikesh-nalawade-b07b78231/
 -  Follow me on insta- rushi_kesh_n
 
