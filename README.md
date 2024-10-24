@@ -1,5 +1,5 @@
 - Hi, I’m @rushi-kesh-19
--  I’m interested in Data analysis
+-  I’m interested in developing cool web apps, sites, design, etc
 -  How to reach me on linkedin-https://www.linkedin.com/in/rushikesh-nalawade-b07b78231/
 -  Follow me on insta- rushi_kesh_n
 
